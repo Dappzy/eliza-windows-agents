@@ -15,12 +15,10 @@ This fork maintains all the amazing features of Eliza while making life easier f
 <div align="center">
   
 [![Telegram](https://img.shields.io/badge/Telegram-@DappChef-blue?style=for-the-badge&logo=telegram)](https://t.me/DappChef)
-[![Twitter Follow](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/intent/follow?screen_name=degendavegems)
 
 Need help or interested in custom development work? 
 - 💬 Reach out on Telegram: [@DappChef](https://t.me/DappChef)
-- 🚀 Follow for updates on crypto integrations and cool features
-- 🌟 If this helped you, a follow would be appreciated!
+- 🌟 If this helped you, feel free to give me a follow!
 
 **Coming Soon:**
 - 💎 Crypto-specific agent templates
